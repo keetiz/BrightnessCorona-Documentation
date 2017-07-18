@@ -3,7 +3,7 @@
 |                      | &nbsp;
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
-| __Library__          | [Brightness.*](Readme.markdown)
+| __Library__          | [Brightness.*](README.md)
 
 
 ## Overview
